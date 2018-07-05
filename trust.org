@@ -1,0 +1,85 @@
+* ideas
+* deleted passages
+** 1
+The first impetus for this project happened on 2017-04-16, there is a
+long Sudelbuch entry detailing it, page 2991 (page 37 of 70 in the
+scan).
+
+Trust is a necessary lubricant of social relations. So is suspicion.
+This paper looks at the relationship between suspicion and trust.
+Although they are commonly understood to be in opposition, I will show
+that they are complementary in the following sense: both trust without
+suspicion and suspicion without trust are socially deleterious. Social
+benefits derive from a proper combination of trust and suspicion.
+
+I want to write a paper bringing together my work on lesbarkeit,
+hermeneutics, and personal identity. Hermeneutics is our ability to
+make sense of texts. We are such one-trick-ponies about this ability
+that we turn phenomena into texts in order to apply our skill to them.
+Dilthey started us off on this by applying hermeneutics to historical
+consciousness. Martin Heidegger applied it understand the being which
+becomes a concern for itself. Scientific method applies it to natural
+phenomena (DNA). The narrativists apply it to what happens in
+someone's life and forge both a morality and a personal identity from
+it.
+
+What happens in understanding a text, however, depends on the type of
+trust relationship between the reader and the variously constructed
+role of the author. Spiritual hermeneutics is often a hermeneutics of
+trust, a maximally charitable reading where there is no room for
+critical evaluation. 
+
+\begin{quote}
+  doubt is an intellectual virtue, more moral than belief (Vanhoozer)
+\end{quote}
+
+The election in the United States last year (2016) serves as an
+indicator of a crisis about trust. I can list three levels of trust
+whose fragility has become apparent: (1) trust in government; (2)
+trust in the community to which one belongs; and (3) trust in
+mainstream discourse.
+
+I live in Vancouver, Canada: a city in which trust in the government
+is probably more entrenched than in similar cities in the United
+States. Nevertheless, a referendum to raise the sales tax by 0.5\% to
+fund public transit was rejected. Meanwhile, Vancouverites
+increasingly spend on private wellness offerings (yoga, personal
+trainers, diets, neuroplasticity manipulation, specialized for-profit
+schools) with sometimes little scientific evidence for effectiveness.
+
+Ny hunch is that trust in government and its ability to improve the
+lives of citizens with additional tax funds has eroded, while a
+general sense of disconnection from communities of trust to which one
+belongs encourages consumption of goods that promise the creation of
+such communities. Sebastian Junger has detailed how returning soldiers
+in the United States often find themselves bereft of the trust and
+community experienced on or near the battle field (see
+\scite{7}{junger16}{}). He claims that the high rates of PTSD among
+veterans is a symptom of disease in the society to which the veterans
+return, not a symptom of a disease acquired abroad. 
+** 2
+Just as we interpret and understand texts, so interpretation and
+understanding are key components of trust. We are no better at
+trusting than the sticklebacks and guppies who engage in predator
+inspection with their conspecifics. Yet we are better at interpreting
+and understanding texts. Invariably, matters of trust become matters
+of interpretation.
+** 3
+Parents can betray their children without a promise to be trustworthy.
+If a spouse, after twenty years of monogamous marriage and a wedding
+which featured monogamous vows, tells her partner that she wants to
+discontinue the monogamous relationship, I would argue that it is not
+implausible to say that she may be disappointing her partner without
+betraying him. Common goods are a mimicry of trust (Baier, 243). 
+** 4
+Strawson's distinction between a descriptive and a prescriptive
+narrativity thesis opens the possibility that the two come apart.
+Strawson notes that Sartre may endorse the descriptive thesis and
+reject the prescriptive one, so that ordinarily people experience
+their lives using narrative, but they ought not to do so in order to
+avoid self-deception (mauvaise foi).
+** 5
+There may be an argument in game theory that explains
+the creative tension between trust and suspicion that sustains human
+communities. 
+* buffer
